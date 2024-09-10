@@ -1,0 +1,45 @@
+,Asus ROG Zephyrus G14 2024 GA403U,Asus ROG Zephyrus G16 2024 GU605M,Lenovo Yoga Pro 9 16IMH9 RTX 4050,Lenovo Legion Slim 7 16APH8,Razer Blade 14 RZ09-0508,HP Omen Transcend 14-fb0014
+Display,
+Display P3 Coverage,99.6,99.9,95.6,70.3,96.9,99.6
+sRGB Coverage,100,100,99.9,99.6,99.8,100
+AdobeRGB 1998 Coverage,89.9,96.9,86.5,72.4,85,96.1
+Response Times,
+Response Time Grey 50% / Grey 80% *,0.62 ?,0.22 ?,12.4 ?,12.6 ?,6 ?,0.86 ?
+Response Time Black / White *,0.68 ?,0.25 ?,8.9 ?,5.9 ?,8.3 ?,0.99 ?
+PWM Frequency,960 ?,960 ?,,,,479 ?
+Screen,
+Brightness middle,423,416,404.9,545,484.1,386.3
+Brightness,424,418,390,502,466,389
+Brightness Distribution,98,96,91,82,89,98
+Black Level *,0.01,,0.4,0.48,0.38,
+Contrast,42300,,1012,1135,1274,
+Colorchecker dE 2000 *,0.7,1.6,2.42,1.36,2.23,4.03
+Colorchecker dE 2000 max. *,1.8,2.1,4.65,3.11,4.57,6.69
+Greyscale dE 2000 *,0.8,2.7,1.1,1.4,1.6,1.2
+Gamma,2.18 101%,2.16 102%,2.22 99%,2.253 98%,2.24 98%,2.25 98%
+CCT,6505 100%,6331 103%,6468 100%,6631 98%,6816 95%,6280 104%
+Colorchecker dE 2000 calibrated *,,,0.93,1.04,0.74,1.07
+Noise,
+off / environment *,23.9,23.9,23.6,24,24.3,24.5
+Idle Minimum *,23.9,23.9,23.6,25,25,24.7
+Idle Average *,23.9,27.8,25.4,28,25,24.7
+Idle Maximum *,23.9,30.1,25.4,31,25,24.7
+Load Average *,46.2,34.2,44.2,33,33,25.2
+Witcher 3 ultra *,46.2,46.4,48.9,47,49.5,47
+Load Maximum *,46.2,46.4,52.6,49,51.9,52
+Heat,
+Maximum Upper Side *,46.6,50.3,41,46,41.8,41.2
+Maximum Bottom *,47.8,48,40.6,46,42.2,39
+Idle Upper Side *,26.7,28.8,30.2,33,34.8,26.2
+Idle Bottom *,27.8,29.8,31.4,34,37.4,25.4
+Battery Runtime,
+WiFi v1.3,555,435,540,424,428,517
+Load,64,71,,,72,66
+Reader / Idle,,,,,480,622
+Power Consumption,
+Idle Minimum *,6.9,8.3,9.9,33,20.9,9.1
+Idle Average *,8.6,12.5,16.6,35,25.6,12.6
+Idle Maximum *,9,12.8,29.2,45,32.1,27.4
+Load Average *,75.2,71.3,100.9,59,72.7,63.5
+Witcher 3 ultra *,109.7,127.5,151.8,131,182.1,118.9
+Load Maximum *,161.6,169.1,182.2,177,228.4,135.3
